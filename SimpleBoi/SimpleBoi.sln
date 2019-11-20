@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleBoi", "SimpleBoi\SimpleBoi.vcxproj", "{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleBoiCherv", "SimpleBoiCherv\SimpleBoiCherv.vcxproj", "{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HealSys", "HealSys\HealSys.vcxproj", "{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_NoReg|Win32 = Debug_NoReg|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Debug_NoReg|Win32.ActiveCfg = Debug_NoReg|Win32
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Debug_NoReg|Win32.Build.0 = Debug_NoReg|Win32
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Debug|Win32.Build.0 = Debug|Win32
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Release|Win32.ActiveCfg = Release|Win32
+		{58AA3BDA-7ADB-4D20-8B76-11A074C0BF2E}.Release|Win32.Build.0 = Release|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Debug_NoReg|Win32.ActiveCfg = Debug|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Debug_NoReg|Win32.Build.0 = Debug|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Debug|Win32.Build.0 = Debug|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Release|Win32.ActiveCfg = Release|Win32
+		{AA9EA018-B91F-4F5F-B06B-F71E34086F2F}.Release|Win32.Build.0 = Release|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Debug_NoReg|Win32.ActiveCfg = Debug|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Debug_NoReg|Win32.Build.0 = Debug|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Debug|Win32.Build.0 = Debug|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Release|Win32.ActiveCfg = Release|Win32
+		{67CFD296-13EF-4D9C-A13F-2920ECFD0D5E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

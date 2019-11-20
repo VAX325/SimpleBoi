@@ -1,0 +1,1 @@
+void EnableMgr(bool v);

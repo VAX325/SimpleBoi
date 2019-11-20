@@ -1,0 +1,14 @@
+﻿Построение начато 20.11.2019 21:57:01.
+     1>Проект "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\HealSys\HealSys.vcxproj" в узле 3 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Release\HealSys.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\HealSys.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HealSys.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\HealSys.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\HealSys.lib" /MACHINE:X86 Release\MainHeal.obj
+     1>LINK : fatal error LNK1561: точка входа должна быть определена
+     1>Построение проекта "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\HealSys\HealSys.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.65

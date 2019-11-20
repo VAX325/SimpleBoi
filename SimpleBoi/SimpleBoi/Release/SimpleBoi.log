@@ -1,0 +1,19 @@
+﻿Построение начато 20.11.2019 21:58:09.
+     1>Проект "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\SimpleBoi\SimpleBoi.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\SimpleBoi.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         SimpleBoi.vcxproj -> C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус.exe
+       FinalizeBuildStatus:
+         Файл "Release\SimpleBoi.unsuccessfulbuild" удаляется.
+         Обращение к "Release\SimpleBoi.lastbuildstate".
+     1>Построение проекта "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\SimpleBoi\SimpleBoi.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.39

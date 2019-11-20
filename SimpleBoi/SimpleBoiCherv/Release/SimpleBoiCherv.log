@@ -1,0 +1,26 @@
+﻿Построение начато 20.11.2019 21:45:08.
+     1>Проект "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\SimpleBoiCherv\SimpleBoiCherv.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\SimpleBoiCherv.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\SimpleBoi\MainCherv.cpp
+         MainCherv.cpp
+     1>..\SimpleBoi\MainCherv.cpp(21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\VS2010\VC\include\string.h(110): см. объявление "strcat"
+     1>..\SimpleBoi\MainCherv.cpp(22): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\VS2010\VC\include\string.h(110): см. объявление "strcat"
+       Link:
+         E:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус(Но вшивается в систему).exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Тупа Вирус(Но вшивается в систему).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус(Но вшивается в систему).pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус(Но вшивается в систему).lib" /MACHINE:X86 Release\MainCherv.obj
+         Создание кода
+         Создание кода завершено
+         SimpleBoiCherv.vcxproj -> C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус(Но вшивается в систему).exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\Release\Тупа Вирус(Но вшивается в систему).exe;#1" /manifest "Release\Тупа Вирус(Но вшивается в систему).exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\SimpleBoiCherv.unsuccessfulbuild" удаляется.
+         Обращение к "Release\SimpleBoiCherv.lastbuildstate".
+     1>Построение проекта "C:\Users\VAX\documents\visual studio 2010\Projects\SimpleBoi\SimpleBoiCherv\SimpleBoiCherv.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:17.29
